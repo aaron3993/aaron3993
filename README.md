@@ -2,7 +2,6 @@
 
 My name is Aaron and I am highly motivated to learn more and more.
 
-🔭 I’m currently working on improving my existing projects.
 <!--
 **aaron3993/aaron3993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
