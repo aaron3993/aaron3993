@@ -2,8 +2,8 @@
 
 My name is Aaron and I am highly motivated to keep learning. I am a recent graduate of the Lighthouse Labs bootcamp from Toronto, and am very excited to begin my career as a developer!
 
-- 🔭 I’m currently working on improving my top projects
-- 🌱 I’m currently expanding my knowledge with computer science concepts, more specifically on data structure and algorithms
+- 🔭 I’m currently working on solving katas and algorithms to improve my problem solving skills
+- 🌱 I’m currently collaborating on a React with node/express project
 
 <!--
 **aaron3993/aaron3993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
