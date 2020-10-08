@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Aaron and I am highly motivated to keep learning. I am a recent graduate of the Lighthouse Labs bootcamp from Toronto, and am very excited to begin my career as a developer!
+My name is Aaron and I am highly motivated to keep learning. I am a full stack developer who is always excited to learn new technologies.
 
 - 🔭 I’m currently working on solving katas and algorithms to improve my problem solving skills
 
