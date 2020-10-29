@@ -2,8 +2,6 @@
 
 My name is Aaron and I am highly motivated to keep learning. I am a full stack developer who is always excited to expand my current knowledge and learn new stacks and technology.
 
-- 🔭 I’m currently working on solving katas and algorithms to improve my problem solving skills
-
 <!--
 **aaron3993/aaron3993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
