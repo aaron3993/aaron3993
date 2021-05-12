@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Aaron and I am highly motivated to keep learning. I am a full stack developer who is always excited to expand my current knowledge and learn new stacks and technology.
+My name is Aaron and I am highly motivated to keep learning. I am a full stack developer who is always excited to expand my knowledge and learn new stacks and technology.
 
 <!--
 **aaron3993/aaron3993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
